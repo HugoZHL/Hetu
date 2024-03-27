@@ -1,4 +1,4 @@
-# (VLDB'24) Experimental Analysis of Large-scale Learnable Vector Storage Compression
+# (VLDB'24) Experimental Analysis of Large-scale Learnable Vector Storage Compression ([Paper](https://dl.acm.org/doi/10.14778/3636218.3636234))
 
 This directory is used for VLDB'24 Artifact Evaluation of paper #282, titled "Experimental Analysis of Large-scale Learnable Vector Storage Compression".
 
@@ -111,5 +111,5 @@ python run_compressed.py --model dlrm --method compo --compress_rate 0.5 --ctx 0
 - AutoSrh: we set nsplit=6, alpha_l1=0.00001 and alpha_lr=0.001.
 
 ## Citation
-If you find this work useful, please cite [our paper](https://arxiv.org/abs/2311.15578).
+If you find this work useful, please cite [our paper](https://dl.acm.org/doi/10.14778/3636218.3636234).
 
